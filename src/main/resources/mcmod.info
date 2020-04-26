@@ -1,0 +1,16 @@
+[
+{
+  "modid": "easysmelting",
+  "name": "简单烧炼",
+  "description": "使用煤粒和任意一个可以被烧炼的物品合成出该物品被烧炼后的结果",
+  "version": "1.0.0",
+  "mcversion": "1.12-1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TimeCraft"],
+  "credits": "Forge&MojangAB",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

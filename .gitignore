@@ -1,0 +1,28 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+.gradle
+build/classes
+build/dependency-cache
+build/resources
+build/retromapping
+build/sources
+build/taskLogs
+build/tmp
+
+# other
+eclipse
+run
