@@ -9,6 +9,6 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 public class RecipeLoader {
     @SubscribeEvent
     public static void RecipeRegistry(RegistryEvent.Register<IRecipe> event){
-        event.getRegistry().registerAll(new RecipeEasySmelting().setRegistryName("EasySmelting"));
+        event.getRegistry().registerAll(new RecipeEasySmelting());
     }
 }

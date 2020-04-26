@@ -16,13 +16,14 @@ out
 # gradle
 .gradle
 build/classes
-build/dependency-cache
 build/resources
 build/retromapping
 build/sources
 build/taskLogs
 build/tmp
+build/dependency-cache
 
 # other
 eclipse
 run
+

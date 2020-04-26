@@ -11,6 +11,9 @@ import static com.timecraft.easysmelting.EasySmelting.logger;
 import static com.timecraft.easysmelting.ItemLoader.littleCoal;
 
 public class RecipeEasySmelting extends IForgeRegistryEntry.Impl<IRecipe> implements IRecipe{
+    public RecipeEasySmelting(){
+        this.setRegistryName("EasySmelting");
+    }
 
     @Override
     public boolean matches(InventoryCrafting inv, World worldIn) {
